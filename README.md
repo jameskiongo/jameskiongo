@@ -6,4 +6,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kiongonjihia&compact=True"/>
   <br/>
   </div>
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
