@@ -25,6 +25,14 @@ How to reach me:
 ![SQL](https://img.shields.io/badge/%20SQL%20-000?style=for-the-badge&logo=MySQL)
 
 
+### Technologies
+
+![Django](https://img.shields.io/badge/%20Django%20-000?style=for-the-badge&logo=Django)
+![Nodejs](https://img.shields.io/badge/%20Node.js%20-000?style=for-the-badge&logo=Node.js)
+![React](https://img.shields.io/badge/%20React%20-000?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/%20Redux%20-000?style=for-the-badge&logo=Redux)
+![Linux](https://img.shields.io/badge/%20Linux%20-000?style=for-the-badge&logo=Linux)
+
 <!--START_SECTION:waka-->
 
 ```txt
