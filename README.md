@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm James Kiongo Njihia</h1>
 
-
+<div align="center">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -16,3 +16,4 @@ HTML               4 hrs 26 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+</div>
