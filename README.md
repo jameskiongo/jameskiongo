@@ -3,15 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2022 - To: 27 December 2023
+From: 27 November 2023 - To: 27 December 2023
 
-Total Time: 142 hrs 17 mins
-
-JavaScript         55 hrs 21 mins  █████████▓░░░░░░░░░░░░░░░   38.90 %
-Python             53 hrs 4 mins   █████████▒░░░░░░░░░░░░░░░   37.30 %
-EJS                9 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-CSS                6 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-HTML               4 hrs 26 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Python       24 hrs 29 mins  ███████████████████░░░░░░   76.17 %
+Lua          3 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+tmux         2 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Bash         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+JSON         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
