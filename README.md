@@ -38,8 +38,6 @@ How to reach me:
 ```txt
 From: 27 November 2023 - To: 27 December 2023
 
-
-
 Python       24 hrs 29 mins  ███████████████████░░░░░░   76.17 %
 Lua          3 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
 tmux         2 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
