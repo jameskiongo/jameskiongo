@@ -42,13 +42,13 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2023 - To: 28 December 2023
+From: 29 November 2023 - To: 29 December 2023
 
-Python       24 hrs 29 mins  ███████████████████░░░░░░   76.17 %
-Lua          3 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-tmux         2 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Bash         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-JSON         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Python       24 hrs 34 mins  █████████████████▒░░░░░░░   69.92 %
+Lua          4 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
+tmux         2 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+HTML         1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Bash         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
