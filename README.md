@@ -42,7 +42,7 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2023 - To: 31 December 2023
+From: 02 December 2023 - To: 01 January 2024
 
 Python       24 hrs 59 mins  █████████████████░░░░░░░░   68.06 %
 Lua          5 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
