@@ -55,6 +55,8 @@ Other        3 mins          ▒░░░░░░░░░░░░░░░░
 
 
 ![giphy](https://github.com/jameskiongo/jameskiongo/assets/47977259/359a276a-9e49-40ae-9ac0-6ae0be395401)
-![](https://komarev.com/ghpvc/?username=jameskiongo&color=black)
+
+
+![](https://komarev.com/ghpvc/?username=jameskiongo&color=grey&style=for-the-badge)
 
 
