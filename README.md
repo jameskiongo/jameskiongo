@@ -45,6 +45,8 @@ How to reach me:
 ```txt
 From: 16 January 2024 - To: 23 January 2024
 
+Total Time: 16 hrs 2 mins
+
 Python      7 hrs 32 mins   ███████████▓░░░░░░░░░░░░░   47.02 %
 HTML        6 hrs 13 mins   █████████▓░░░░░░░░░░░░░░░   38.85 %
 Lua         1 hr 47 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
