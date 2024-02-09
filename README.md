@@ -43,11 +43,12 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2024 - To: 07 February 2024
+From: 01 February 2024 - To: 08 February 2024
 
-Total Time: 28 mins
+Total Time: 1 hr 22 mins
 
-JavaScript   28 mins         █████████████████████████   100.00 %
+JavaScript   1 hr 21 mins    █████████████████████████   99.72 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
