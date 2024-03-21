@@ -43,15 +43,14 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 March 2024 - To: 19 March 2024
+From: 13 March 2024 - To: 20 March 2024
 
-Total Time: 11 hrs 49 mins
+Total Time: 11 hrs 23 mins
 
-Python     10 hrs 59 mins  ███████████████████████▒░   92.98 %
-Lua        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Text       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-HTML       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Python     10 hrs 45 mins  ███████████████████████▓░   94.33 %
+Lua        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Text       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
