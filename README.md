@@ -43,7 +43,7 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 March 2024 - To: 23 March 2024
+From: 17 March 2024 - To: 24 March 2024
 
 Total Time: 8 hrs 53 mins
 
