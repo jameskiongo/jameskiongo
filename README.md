@@ -43,15 +43,15 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2024 - To: 21 June 2024
+From: 15 June 2024 - To: 22 June 2024
 
-Total Time: 9 hrs 37 mins
+Total Time: 9 hrs 25 mins
 
-JavaScript   6 hrs 55 mins   ██████████████████░░░░░░░   71.82 %
-Lua          2 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
-CSS          27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-jsonc        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+JavaScript   8 hrs 13 mins   █████████████████████▓░░░   87.25 %
+CSS          34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Lua          33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Image        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
