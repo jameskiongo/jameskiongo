@@ -43,11 +43,15 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2024 - To: 20 July 2024
+From: 14 July 2024 - To: 21 July 2024
 
-Total Time: 0 secs
+Total Time: 5 hrs 59 mins
 
-No activity tracked
+Lua          5 hrs 24 mins   ██████████████████████▓░░   90.32 %
+JavaScript   28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Vim Script   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
