@@ -16,8 +16,12 @@ How to reach me:
 ![LinkedIn](https://img.shields.io/badge/%20LinkedIn%20-000?style=for-the-badge&logo=LinkedIn)
 
 </a>
+<a href="https://kiongo.vercel.app/">
+  
+![Vercel](https://img.shields.io/badge/%20Portfolio%20-000?style=for-the-badge&logo=Vercel)
 
-### Languages
+</a>
+Languages
 
 ![Python](https://img.shields.io/badge/%20Python%20-000?style=for-the-badge&logo=Python)
 ![JavaScript](https://img.shields.io/badge/%20javascript%20-000?style=for-the-badge&logo=javascript)
