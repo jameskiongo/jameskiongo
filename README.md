@@ -16,7 +16,7 @@ How to reach me:
 ![LinkedIn](https://img.shields.io/badge/%20LinkedIn%20-000?style=for-the-badge&logo=LinkedIn)
 
 </a>
-<a href="https://kiongo.vercel.app/">
+<a href="https://kiongo.vercel.app/" target="_blank">
   
 ![Vercel](https://img.shields.io/badge/%20Portfolio%20-000?style=for-the-badge&logo=Vercel)
 
