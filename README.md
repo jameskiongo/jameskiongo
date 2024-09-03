@@ -47,13 +47,15 @@ Languages
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2024 - To: 01 September 2024
+From: 26 August 2024 - To: 02 September 2024
 
-Total Time: 2 hrs 27 mins
+Total Time: 6 hrs 51 mins
 
-Lua      1 hr 45 mins    ██████████████████░░░░░░░   71.45 %
-Python   41 mins         ███████░░░░░░░░░░░░░░░░░░   28.31 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python       4 hrs 50 mins   █████████████████▓░░░░░░░   70.60 %
+Lua          1 hr 45 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
+Text         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+gitignore    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
