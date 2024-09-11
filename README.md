@@ -47,15 +47,15 @@ Languages
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2024 - To: 08 September 2024
+From: 03 September 2024 - To: 10 September 2024
 
-Total Time: 14 hrs 14 mins
+Total Time: 9 hrs 50 mins
 
-Python       12 hrs 7 mins   █████████████████████▒░░░   85.19 %
-Text         43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-Bash         40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-HTML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Python       7 hrs 58 mins   ████████████████████▒░░░░   81.12 %
+Bash         35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Text         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+HTML         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+JavaScript   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
