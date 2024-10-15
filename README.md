@@ -47,13 +47,13 @@ Languages
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2024 - To: 13 October 2024
+From: 07 October 2024 - To: 14 October 2024
 
-Total Time: 24 hrs 49 mins
+Total Time: 23 hrs 46 mins
 
-JavaScript   18 hrs 30 mins  ██████████████████▓░░░░░░   74.57 %
-Python       6 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.39 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript   14 hrs 58 mins  ███████████████▓░░░░░░░░░   63.01 %
+Python       8 hrs 47 mins   █████████▒░░░░░░░░░░░░░░░   36.95 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
