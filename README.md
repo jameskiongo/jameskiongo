@@ -47,15 +47,15 @@ Languages
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2024 - To: 22 October 2024
+From: 16 October 2024 - To: 23 October 2024
 
-Total Time: 22 hrs 22 mins
+Total Time: 23 hrs 28 mins
 
-Lua          8 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   36.51 %
-TypeScript   7 hrs 24 mins   ████████▒░░░░░░░░░░░░░░░░   33.08 %
-JavaScript   5 hrs 26 mins   ██████░░░░░░░░░░░░░░░░░░░   24.32 %
-TOML         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Bash         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Lua                9 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   41.33 %
+TypeScript         7 hrs 25 mins   ████████░░░░░░░░░░░░░░░░░   31.64 %
+Python             3 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
+TOML               1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+JavaScript         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
