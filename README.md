@@ -45,15 +45,15 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2024 - To: 26 October 2024
+From: 20 October 2024 - To: 27 October 2024
 
-Total Time: 32 hrs 57 mins
+Total Time: 36 hrs 14 mins
 
-Lua                11 hrs 52 mins  █████████░░░░░░░░░░░░░░░░   36.03 %
-TypeScript         11 hrs 2 mins   ████████▒░░░░░░░░░░░░░░░░   33.52 %
-Python             5 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
-TOML               1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-JavaScript         1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Lua                12 hrs 31 mins  ████████▓░░░░░░░░░░░░░░░░   34.55 %
+TypeScript         12 hrs 28 mins  ████████▓░░░░░░░░░░░░░░░░   34.41 %
+Python             5 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
+TOML               1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+JavaScript         1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 ```
 
 <!--END_SECTION:waka-->
