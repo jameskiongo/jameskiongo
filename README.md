@@ -45,13 +45,11 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2025 - To: 12 January 2025
+From: 06 January 2025 - To: 13 January 2025
 
-Total Time: 2 hrs 20 mins
+Total Time: 58 mins
 
-JavaScript   2 hrs 15 mins   ████████████████████████▒   96.71 %
-TypeScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   58 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
