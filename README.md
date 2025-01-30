@@ -45,7 +45,7 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2025 - To: 28 January 2025
+From: 22 January 2025 - To: 29 January 2025
 
 Total Time: 1 hr 5 mins
 
