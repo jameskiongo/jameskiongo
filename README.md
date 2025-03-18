@@ -45,12 +45,12 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2025 - To: 16 March 2025
+From: 10 March 2025 - To: 17 March 2025
 
-Total Time: 4 hrs 57 mins
+Total Time: 6 hrs 34 mins
 
-JavaScript   4 hrs 51 mins   ████████████████████████▒   97.78 %
-Lua          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+JavaScript   6 hrs 26 mins   ████████████████████████▓   98.04 %
+Lua          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
