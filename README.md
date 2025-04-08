@@ -45,13 +45,11 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2025 - To: 06 April 2025
+From: 31 March 2025 - To: 07 April 2025
 
-Total Time: 1 hr 11 mins
+Total Time: 0 secs
 
-C       1 hr 9 mins     ████████████████████████▒   96.75 %
-Text    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
