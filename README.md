@@ -45,15 +45,15 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 May 2025 - To: 21 May 2025
+From: 15 May 2025 - To: 22 May 2025
 
-Total Time: 16 hrs 9 mins
+Total Time: 12 hrs 55 mins
 
-TypeScript   9 hrs 57 mins   ███████████████▒░░░░░░░░░   61.67 %
-Lua          4 hrs 26 mins   ███████░░░░░░░░░░░░░░░░░░   27.49 %
-JSON         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-C            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-TSConfig     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+TypeScript   7 hrs 36 mins   ██████████████▓░░░░░░░░░░   58.83 %
+Lua          4 hrs 16 mins   ████████▒░░░░░░░░░░░░░░░░   33.07 %
+JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Python       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
