@@ -12,13 +12,14 @@ How to reach me:
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/jameskiongo/">
-
+  
 ![LinkedIn](https://img.shields.io/badge/%20LinkedIn%20-000?style=for-the-badge&logo=LinkedIn)
-
+  
 </a>
+
 <a href="https://kiongo.vercel.app/" target="_blank">
   
-![Vercel](https://img.shields.io/badge/%20Portfolio%20-000?style=for-the-badge&logo=Vercel)
+![LinkedIn](https://img.shields.io/badge/%20Portfolio%20-000?style=for-the-badge&logo=LinkedIn)
 
 </a>
 
@@ -28,7 +29,6 @@ How to reach me:
 ### Languages
 
 ![Python](https://img.shields.io/badge/%20Python%20-000?style=for-the-badge&logo=Python)
-![JavaScript](https://img.shields.io/badge/%20javascript%20-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/%20TypeScript%20-000?style=for-the-badge&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/%20SQL%20-000?style=for-the-badge&logo=MySQL)
 
