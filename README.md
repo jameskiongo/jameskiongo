@@ -59,7 +59,6 @@ Bash         16 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-![giphy](https://github.com/jameskiongo/jameskiongo/assets/47977259/359a276a-9e49-40ae-9ac0-6ae0be395401)
 
 
 
