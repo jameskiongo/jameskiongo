@@ -45,15 +45,15 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2025 - To: 05 August 2025
+From: 30 July 2025 - To: 06 August 2025
 
-Total Time: 8 hrs 41 mins
+Total Time: 7 hrs 37 mins
 
-C            4 hrs 26 mins   ████████████▓░░░░░░░░░░░░   51.03 %
-Markdown     1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
-TypeScript   58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-JavaScript   47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-JSON         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+C            4 hrs 8 mins    █████████████▓░░░░░░░░░░░   54.39 %
+Markdown     50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+JavaScript   47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+tmux         45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+JSON         29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
 ```
 
 <!--END_SECTION:waka-->
