@@ -45,13 +45,12 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2025 - To: 27 August 2025
+From: 22 August 2025 - To: 29 August 2025
 
-Total Time: 12 hrs 34 mins
+Total Time: 10 hrs 5 mins
 
-Go         11 hrs 38 mins  ███████████████████████░░   92.59 %
-Markdown   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-C          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Go         9 hrs 32 mins   ███████████████████████▓░   94.52 %
+Markdown   33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
 ```
 
 <!--END_SECTION:waka-->
