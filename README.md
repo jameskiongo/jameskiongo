@@ -45,14 +45,11 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2025 - To: 12 October 2025
+From: 07 October 2025 - To: 14 October 2025
 
-Total Time: 1 hr 49 mins
+Total Time: 0 secs
 
-Go           1 hr 29 mins    ████████████████████▒░░░░   81.81 %
-JavaScript   12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-Markdown     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Lua          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
