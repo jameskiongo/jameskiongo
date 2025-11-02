@@ -45,15 +45,15 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2025 - To: 31 October 2025
+From: 25 October 2025 - To: 01 November 2025
 
-Total Time: 15 hrs 13 mins
+Total Time: 13 hrs 46 mins
 
-Go             8 hrs 26 mins   ██████████████░░░░░░░░░░░   55.48 %
-Other          2 hrs 27 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
-hyprlang       1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-Lua            1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-Bash           20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Go         7 hrs 55 mins   ██████████████▒░░░░░░░░░░   57.61 %
+Other      2 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
+hyprlang   1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+Lua        1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+JSON       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
