@@ -45,15 +45,15 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2025 - To: 10 November 2025
+From: 04 November 2025 - To: 11 November 2025
 
-Total Time: 8 hrs 41 mins
+Total Time: 9 hrs 54 mins
 
-Go            2 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
-Markdown      1 hr 44 mins    █████░░░░░░░░░░░░░░░░░░░░   19.97 %
-Lua           1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
-Image (svg)   1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-CSS           24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Go            3 hrs 27 mins   ████████▓░░░░░░░░░░░░░░░░   34.88 %
+Markdown      1 hr 43 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
+Lua           1 hr 21 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+Image (svg)   1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+CSS           24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
 ```
 
 <!--END_SECTION:waka-->
