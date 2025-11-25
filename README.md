@@ -45,15 +45,15 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2025 - To: 22 November 2025
+From: 17 November 2025 - To: 24 November 2025
 
-Total Time: 2 hrs 39 mins
+Total Time: 5 hrs 59 mins
 
-hyprlang     50 mins         ████████░░░░░░░░░░░░░░░░░   31.35 %
-JavaScript   40 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.40 %
-Go           23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
-Lua          21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
-CSS          8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Go           1 hr 26 mins    ██████░░░░░░░░░░░░░░░░░░░   23.96 %
+Markdown     1 hr 13 mins    █████░░░░░░░░░░░░░░░░░░░░   20.42 %
+hyprlang     47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+JavaScript   40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
+TypeScript   35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
 ```
 
 <!--END_SECTION:waka-->
