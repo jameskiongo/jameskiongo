@@ -45,12 +45,12 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
 Total Time: 2 hrs 22 mins
 
-hyprlang   1 hr 29 mins    ███████████████▓░░░░░░░░░   62.99 %
-Bash       41 mins         ███████▒░░░░░░░░░░░░░░░░░   29.27 %
+hyprlang   1 hr 30 mins    ███████████████▓░░░░░░░░░   63.26 %
+Bash       41 mins         ███████▒░░░░░░░░░░░░░░░░░   29.01 %
 tmux       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 Other      5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 zsh        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
