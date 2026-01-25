@@ -45,15 +45,15 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2026 - To: 22 January 2026
+From: 16 January 2026 - To: 23 January 2026
 
-Total Time: 5 hrs 9 mins
+Total Time: 5 hrs 23 mins
 
-C          1 hr 31 mins    ███████▒░░░░░░░░░░░░░░░░░   29.53 %
-hyprlang   1 hr 2 mins     █████░░░░░░░░░░░░░░░░░░░░   20.15 %
-Go         42 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
-Bash       30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-Markdown   27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+hyprlang   1 hr 27 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
+C          1 hr 6 mins     █████░░░░░░░░░░░░░░░░░░░░   20.63 %
+Go         42 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+Bash       31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+Lua        28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
 ```
 
 <!--END_SECTION:waka-->
