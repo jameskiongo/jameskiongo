@@ -45,15 +45,15 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2026 - To: 07 February 2026
+From: 01 February 2026 - To: 08 February 2026
 
-Total Time: 7 hrs 14 mins
+Total Time: 7 hrs 1 min
 
-Python       4 hrs 22 mins   ███████████████░░░░░░░░░░   60.52 %
-TypeScript   2 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   28.75 %
-hyprlang     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-tmux         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Python       4 hrs 17 mins   ███████████████▒░░░░░░░░░   61.00 %
+TypeScript   2 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.62 %
+hyprlang     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+tmux         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
