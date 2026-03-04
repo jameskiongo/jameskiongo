@@ -45,15 +45,15 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 February 2026 - To: 01 March 2026
+From: 23 February 2026 - To: 02 March 2026
 
-Total Time: 10 hrs 28 mins
+Total Time: 12 hrs 12 mins
 
-TypeScript   8 hrs 16 mins   ███████████████████▓░░░░░   78.91 %
-JavaScript   49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-Bash         46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-hyprlang     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-CSS          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+TypeScript   9 hrs 40 mins   ███████████████████▓░░░░░   79.24 %
+JavaScript   49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Bash         49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+hyprlang     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->
