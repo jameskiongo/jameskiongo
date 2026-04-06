@@ -45,13 +45,12 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2026 - To: 04 April 2026
+From: 29 March 2026 - To: 05 April 2026
 
-Total Time: 4 hrs 25 mins
+Total Time: 3 hrs 37 mins
 
-TypeScript   4 hrs 17 mins   ████████████████████████▒   96.96 %
-tmux         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TypeScript   3 hrs 29 mins   ████████████████████████░   96.42 %
+tmux         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
 <!--END_SECTION:waka-->
