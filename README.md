@@ -45,15 +45,15 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2026 - To: 19 August 2026
+From: 14 August 2026 - To: 21 August 2026
 
-Total Time: 5 hrs 12 mins
+Total Time: 7 hrs 57 mins
 
-Lua     1 hr 24 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
-tmux    59 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
-Bash    55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
-TOML    47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
-Other   30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+Lua     3 hrs 7 mins    ██████████░░░░░░░░░░░░░░░   39.35 %
+Rust    1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
+tmux    59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+Bash    55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+TOML    47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
 ```
 
 <!--END_SECTION:waka-->
