@@ -45,11 +45,14 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 04 September 2026 - To: 11 September 2026
 
-Total Time: 3 mins
+Total Time: 38 mins
 
-C   3 mins          █████████████████████████   100.00 %
+Other      19 mins         ████████████▓░░░░░░░░░░░░   50.56 %
+Lua        17 mins         ███████████▓░░░░░░░░░░░░░   46.31 %
+Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
