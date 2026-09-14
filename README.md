@@ -45,7 +45,7 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2026 - To: 11 September 2026
+From: 06 September 2026 - To: 13 September 2026
 
 Total Time: 38 mins
 
