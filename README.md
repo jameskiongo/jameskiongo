@@ -45,11 +45,11 @@ How to reach me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2026 - To: 13 October 2026
+From: 07 October 2026 - To: 14 October 2026
 
-Total Time: 24 mins
+Total Time: 3 mins
 
-Go   24 mins         █████████████████████████   100.00 %
+hyprlang   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
